@@ -11,7 +11,7 @@ quero poder:
 
 ## Indice
 
-1. [capítulo 1 - sql](./capítulo-1/README.md)
+1. [capítulo 1 - sql](./capitulo-1/README.md)
 
 ## Aprender github
 
