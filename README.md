@@ -9,16 +9,9 @@ quero poder:
 - Aprender Marckdown.
 - Aprender a facer manuais.
 
-## Aprender git
+## Indice
 
-```sql
-SELECT name
-FROM world
-WHERE continent = 'Europe':
-
-
-```
-
+1. [capítulo 1 - sql](./capítulo-1/README.md)
 
 ## Aprender github
 
